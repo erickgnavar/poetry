@@ -117,7 +117,7 @@ poetry install --no-dev
 ```
 
 You can also specify the extras you want installed
-by passing the `--E|--extras` option (See [Extras](#extras) for more info)
+by passing the `--E|--extras` option (See [Extras](./pyproject.md/#extras) for more info)
 
 ```bash
 poetry install --extras "mysql pgsql"
